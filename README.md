@@ -2,7 +2,7 @@
 
 
 - 📚 HTML, CSS, JS, Python and DS...
-- 🎯 Data Science
+- 🎯 Focous in projects experiences and solving problems
 - 😄 Pronouns: she/her
 
 
