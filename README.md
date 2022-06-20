@@ -1,7 +1,7 @@
 ### Hi there! I am Gabriela, friends call me Gabi. 🙋‍♀️
 
 
-- 📚 .Net, ASP.NET, CSharp, Python, SQLite and DS.
+- 📚 .Net, ASP.NET Core, CSharp, Javascript, Python and SQL Server.
 - 🎯 Focous in projects experiences and solving problems
 
 
