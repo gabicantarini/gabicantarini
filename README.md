@@ -3,7 +3,7 @@
 
 
 - 📚 Sharepoint, React, Javascript, .Net, ASP.NET Core, CSharp.
-- 🎯 Focous in solving problems n projects experience.
+- 🎯 Focus in solving problems n projects experience.
 
 
 
